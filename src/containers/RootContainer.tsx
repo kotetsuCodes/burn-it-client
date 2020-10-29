@@ -4,7 +4,6 @@ import Login from '../components/Login'
 function RootContainer() {
   return (    
       <Login />
-    
   )
 }
 

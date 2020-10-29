@@ -148,7 +148,7 @@ const Login = () => {
   // }
 
   const handleIncrement = () => {
-    dispatch("INCREMENT")
+    dispatch({type: 'INCREMENT'})
   }
 
   return (
